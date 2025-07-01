@@ -39,7 +39,7 @@ I'm a passionate *Software Developer* and *Creative Designer* from 🇱🇰 Sri 
 ## 🌍 Outside the Code
 
 While most of my time is spent in front of the screen designing or coding, I'm also a *solo traveler* and the co-creator of a travel YouTube channel:  
-🎥 *[Adavi Gaweshaka](http://www.youtube.com/@AdaviGaweshaka%E0%B6%85%E0%B6%A9%E0%B7%80%E0%B7%92%E0%B6%9C%E0%B7%80%E0%B7%9A%E0%B7%81%E0%B6%9A)* — where I explore hidden natural spots across Sri Lanka.
+🎥 *[Adavi Gaweshaka](http://www.youtube.com/@AdaviGaweshaka)* — where I explore hidden natural spots across Sri Lanka.
 
 ---
 
