@@ -7,6 +7,7 @@ I'm a passionate Software Developer and Creative Designer from 🇱🇰   Sri La
 ## 🛠 Tech Toolbox
 
 *Languages & Frameworks*  
+<p align ="left">
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
@@ -15,8 +16,10 @@ I'm a passionate Software Developer and Creative Designer from 🇱🇰   Sri La
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+</p>
 
 *Databases & Tools*  
+<p align ="left">
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)  
@@ -24,7 +27,7 @@ I'm a passionate Software Developer and Creative Designer from 🇱🇰   Sri La
 ![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)  
 ![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)  
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
+</p>
 ---
 
 ## 🌱 Currently Working On
