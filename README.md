@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Niraj Malindu
 
-I'm a passionate Software Developer and Creative Designer from 🇱🇰  Sri Lanka.
+I'm a passionate Software Developer and Creative Designer from 🇱🇰   Sri Lanka.
 
 ---
 
