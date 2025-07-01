@@ -16,13 +16,13 @@ I'm a passionate Software Developer and Creative Designer from 🇱🇰 Sri Lank
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
 
 *Databases & Tools*  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)  
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=notepadplusplus&logoColor=black)  
-![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)  
-![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)  
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Apache_NetBeans_Logo.svg" width="40" alt="NetBeans" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Notepad++_Logo.png" width="40" alt="Notepad++" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_Word_2013-2019_logo.svg" width="40" alt="Word" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Excel_2013-2019_logo.svg" width="40" alt="Excel" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282018–present%29.svg" width="40" alt="PowerPoint" />
 
 ---
 
