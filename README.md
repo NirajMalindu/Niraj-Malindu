@@ -47,7 +47,7 @@ While most of my time is spent in front of the screen designing or coding, I'm a
 
 - 📧 Email: nirajmalindu2002@gmail.com  
 - 🔗 LinkedIn: (http://www.linkedin.com/in/NirajMalindu)  
-- 🎥 YouTube: [Adavi Gaweshaka](https://www.youtube.com/AdaviGaweshaka)
+- 🎥 YouTube: [Adavi Gaweshaka](http://www.youtube.com/@AdaviGaweshaka%E0%B6%85%E0%B6%A9%E0%B7%80%E0%B7%92%E0%B6%9C%E0%B7%80%E0%B7%9A%E0%B7%81%E0%B6%9A)
 
 ---
 
